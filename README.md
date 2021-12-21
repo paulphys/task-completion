@@ -1,12 +1,15 @@
-# Hide Folders Obsidian
+# Task Completion 🎵
 
-> Obsidian plugin that lets you hide specific folders and files on your sidebar.
+> This plugin plays a sound everytime you complete a task (check of a box). great for associative learning
 
 ### Develop locally
 
-- Clone this repo.
-- `npm i` or `yarn` to install dependencies
-- `npm run dev` or `yarn dev` to start compilation in watch mode.
+```bash
+git clone https://github.com/paulphys/task-completion
+cd task-completion
+yarn
+yarn dev
+```
 
 ### Manually installing the plugin
 

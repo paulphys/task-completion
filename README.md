@@ -1,6 +1,6 @@
 # Task Completion 🎵
 
-> This plugin plays a sound everytime you complete a task (check of a box). great for associative learning
+> Obsidian plugin that plays a sound everytime you complete a task (check of a box). great for associative learning
 
 ### Develop locally
 
